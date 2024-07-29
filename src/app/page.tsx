@@ -1,3 +1,4 @@
+'use client'
 import { useCompletion } from "ai/react";
 
 export default function Home() {
